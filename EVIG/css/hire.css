@@ -1,0 +1,162 @@
+.hire-name
+{
+    position:relative;
+    top:-300px;
+    left: 700px;
+    font-weight:bolder;
+    font-size: 30px;
+    
+}
+
+.hire-location
+{
+    position:relative;
+    top:-260px;
+    left: 700px;
+    font-weight:bolder;
+    font-size: 30px;
+    
+}
+
+.hire-type
+{
+    position:relative;
+    top:-220px;
+    left: 700px;
+    font-weight:bolder;
+    font-size: 30px;
+    
+}
+
+.hire-img img
+{
+    position:relative;
+    left:0px;
+    width:600px;
+    height:400px;
+}
+
+.hire-number
+{
+   position:relative;
+   left: 100px;
+   top:-100px;
+   font-weight:bolder;
+   font-size: 30px;
+}
+
+.hire-address
+{
+   position:relative;
+   left: 100px;
+   top:-80px;
+   font-weight:bolder;
+   font-size: 30px;
+}
+
+.btn-hire {
+position:relative;
+width:160px;
+height:40px;
+left:1000px;
+top:-300px;
+text-align:center;
+font-weight:bolder;
+color:#fff;
+border:1px solid rgb(13, 126, 38);
+border-radius: 20px;
+background-color:rgb(13, 126, 38);
+padding-right:50px;
+}
+
+.Line {
+    position:relative;
+    font-weight:bolder;
+    font-size:30px;
+    left:30px;
+    width:400px;
+    
+}
+
+.Line .Name {
+    border-top:3px solid black;
+    border-bottom:3px solid black;
+    text-align:center;
+}
+
+.Line .Feedback {
+    border-top:3px solid black;
+    border-bottom:3px solid black;
+    text-align:center;
+}
+
+.Line .Feedback {
+    position:relative;
+    left:600px;
+    top:-65px;
+    width:800px;
+    
+}
+
+#FORM{
+    position:relative;
+   
+}
+
+.feedback-heading
+{
+    position:relative;
+    font-weight:bolder;
+    font-size:30px;
+}
+.Label-Name {
+    position:relative;
+    padding-top:30px;
+    font-size:30px;
+}
+
+.name-text
+{
+    position:relative;
+    left:60px;
+    width:300px;
+}
+
+.Message-text
+{
+    position:relative;
+    left:22px;
+    width:300px;
+}
+
+.Label-Message {
+    position:relative;
+    font-size:30px;
+}
+
+.btn-hire {
+    position:relative;
+    width:160px;
+    height:40px;
+    left:1000px;
+    top:-300px;
+    text-align:center;
+    font-weight:bolder;
+    color:#fff;
+    background-color:green;
+    padding-right:50px;
+    }
+    
+.btn-feedback {
+    position:relative;
+    width:160px;
+    height:40px;
+    left:282px;
+    top:20px;
+    text-align:center;
+    font-weight:bolder;
+    color:#fff;
+    background-color:green;
+    padding-right:50px;
+
+}

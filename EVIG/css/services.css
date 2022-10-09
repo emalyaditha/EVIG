@@ -1,0 +1,62 @@
+
+/*features*/
+.boxx{
+    float: left;
+   
+}
+.features
+{
+    padding: 100px 0;
+
+}
+h1 
+{
+    text-align: center;
+    padding-bottom: 30px;
+    
+}
+.feature-img img
+{
+    width: 310px;
+    height: 400px;
+    align-items: center;
+    position: relative;
+    left: 5%;
+}
+.feature-img
+{
+
+    position: relative;
+}
+
+.feature-details
+{
+    padding: 20px;
+    text-align: justify;
+}
+.feature-details h4
+{
+    font-weight: 600;
+    margin-top: 20px;
+}
+.feature-details .fa
+{
+    margin-right: 5px;
+}
+.feature-box
+{
+    box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
+    margin-bottom: 30px; border: 1px solid;
+    width:350px;
+    margin: 35px;
+    position: relative;
+    float: left;
+    height:600px;
+}
+
+
+
+
+
+
+

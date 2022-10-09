@@ -1,0 +1,29 @@
+.table{
+	padding-left: 200px;
+	margin-top: 100px;
+
+}
+
+#cTable1{
+	position:relative;
+	padding-left: 330px;
+	width:50px;
+	margin-top: 100px;
+
+}
+#cTable{
+	padding-right: 1100px;
+	width: 500PX;
+
+}
+#pTable1{
+	padding-left: 200px;
+	margin-top: 100px;
+	
+}
+td, th {
+	border: 1px solid rgb(0, 0, 0);
+	padding: 0.5rem;
+	
+
+  }

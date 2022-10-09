@@ -1,0 +1,10 @@
+body{
+    background: 
+    linear-gradient(90deg ,#03837c,#9bf7ef);
+    z-index: 1;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+  
+  
+  }
